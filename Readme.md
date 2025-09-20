@@ -1,7 +1,7 @@
 # Git Lab
 
 
-## Creating Repository
+## Tracking Files
 
 ### What is .git?
 A folder automatically created once a git repository is initialized using "git init". It's a hidden folder (starts with .) and contains all the necessary information to help git do its job (track changes, manage history, etc.).
@@ -28,3 +28,6 @@ If we want git to understand that this was a rename we have to use "git add -A" 
 
 ### --stat
 shows change stats per file in log, show and diff
+
+## Git Branches
+
